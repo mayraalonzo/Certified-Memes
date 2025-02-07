@@ -1,5 +1,10 @@
 *{
-    margin: 0;
-    padding: 0;
-    
+    background-color: #2D3250;
+    font-family: "playfair-display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.btn{
+    background-color: #FAB17C;
 }
