@@ -8,3 +8,15 @@
 .btn{
     background-color: #FAB17C;
 }
+
+.logo{
+    position: absolute;
+    top: 20mm;  
+    left: 20mm; 
+    width: 40mm; 
+    height: auto;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+  }
